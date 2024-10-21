@@ -1,0 +1,10 @@
+-----------Css----------
+Css : Casecading Style sheet
+[HTML এর মধ্যে css করার কাজে css ব্যবহার করা হয়.]
+css লিখার পদ্ধতি ৩টা :
+১. Inline Css    2. Internal Css   3. External Css 
+Inline Css : যা html এর প্রতিটা লাইনের কাজ করবে.
+Internal Css : যা html এর ভিতরে head এর মধ্যে কাজ করবে.
+External css : আলাদা ফাইল ক্রিয়েট করে css এর কোড লিখতে হবে, 
+              এবং html এর ফাইলের সাথে লিংক করে দিতে হবে.
+CSS লিখার মূল উদ্দেশ্য হচ্ছে html কে ডিজাইন করা.
